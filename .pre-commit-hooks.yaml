@@ -1,6 +1,6 @@
 -   id: tan
     name: tan
-    description: ''
+    description: 'Tan: The compromising Python code formatter'
     entry: tan
     language: python
     'types_or': [python,pyi]
